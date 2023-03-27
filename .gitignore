@@ -1,0 +1,6 @@
+# Dépendances NPM du projet
+node_modules
+# Données sensibles
+.env
+# Dossier de build
+dist
